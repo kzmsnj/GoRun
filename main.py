@@ -1,5 +1,4 @@
 import sys
-# Mengimpor modul yang sudah kita pisah
 import run_classifier
 import binary_classifier
 
